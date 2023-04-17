@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "User: 你好"
+    },
+    {
+        "role": "assistant",
+        "content": "AI: {\"error\":{\"message\":\"Invalid signature.\"}}"
+    }
+]
